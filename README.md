@@ -82,23 +82,24 @@ it to this repository.
 
 Insertion, search, and deletion running time (already sorted):
 
-![Firefly picture of a cat 86147](https://github.com/user-attachments/assets/8b2d008e-3011-4979-97b8-fa2e9886a01a)
-
+![Insertion Sorted, Search Sorted and Deletion Sorted .png](../../Downloads/Insertion%20Sorted%2C%20Search%20Sorted%20and%20Deletion%20Sorted%20.png)
 
 Insertion, search, and deletion running time (shuffled):
-
+![Insertion shuffled , Search Shuffled and Deletion Shuffle.png](../../Downloads/Insertion%20shuffled%20%2C%20Search%20Shuffled%20and%20Deletion%20Shuffle.png)
 Insertion, search, and deletion running time (reversed):
-
+![Insertion Reversed, Search Reversed and Deletion Reversed .png](../../Downloads/Insertion%20Reversed%2C%20Search%20Reversed%20and%20Deletion%20Reversed%20.png)
 ## 5. **Document your Dataset and Results**
 Document the source of your dataset and any modifications you made to it. Describe the results of your analysis and 
 how it compares to the theoretical performance of the hash table operations.
 
 Dataset Source: // FINISH ME
-
-Dataset Modifications ("None" if unchanged): // FINISH ME
+https://www.kaggle.com/datasets/justinas/nba-players-data
+Dataset Modifications ("None" if unchanged): // FINISH ME Cut the dataset to be 5000 lines 
 
 Result Analysis: // FINISH ME
-
+From the analysis of my table I can see that there is increases and decreases in my insertion, deletion and search graphs 
+due to frequent resizing of the chains upon inserts and deletions which has the runtime of O(c). This checks out to the theoretical 
+because for a linked list the insert,search,delete is O(c) for large table sizes.  
 ## Submission:
 
 Your project will be developed and graded via GitHub. Your final "push" is your final submission, and it must occur
