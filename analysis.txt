@@ -1,0 +1,139 @@
+
+
+List:
+SortedInsert Time: 3503917ns
+Search Time: 483541ns
+Delete Time: 1094833ns
+
+List:
+ShuffledInsert Time: 3208458ns
+Search Time: 1016959ns
+Delete Time: 597417ns
+
+List:
+ReversedInsert Time: 2127750ns
+Search Time: 921417ns
+Delete Time: 687917ns
+
+List:
+SortedInsert Time: 4712958ns
+Search Time: 722125ns
+Delete Time: 1155750ns
+
+List:
+ShuffledInsert Time: 3916417ns
+Search Time: 499292ns
+Delete Time: 735500ns
+
+List:
+ReversedInsert Time: 4329917ns
+Search Time: 596167ns
+Delete Time: 550625ns
+
+
+List:
+SortedInsert Time: 4408125ns
+Search Time: 612459ns
+Delete Time: 3600709ns
+
+List:
+ShuffledInsert Time: 4426375ns
+Search Time: 604500ns
+Delete Time: 663167ns
+
+List:
+ReversedInsert Time: 2495458ns
+Search Time: 531125ns
+Delete Time: 576000ns
+
+
+List:
+SortedInsert Time: 7630500ns
+Search Time: 1203208ns
+Delete Time: 2171500ns
+
+List:
+ShuffledInsert Time: 3134709ns
+Search Time: 605708ns
+Delete Time: 653833ns
+
+List:
+ReversedInsert Time: 4570000ns
+Search Time: 1185042ns
+Delete Time: 2873000ns
+
+List:
+SortedInsert Time: 5784958ns
+Search Time: 1031833ns
+Delete Time: 1879584ns
+
+List:
+ShuffledInsert Time: 3957500ns
+Search Time: 811875ns
+Delete Time: 880709ns
+
+List:
+ReversedInsert Time: 6551750ns
+Search Time: 971834ns
+Delete Time: 909833ns
+
+List:
+SortedInsert Time: 18100292ns
+Search Time: 8043958ns
+Delete Time: 7176208ns
+
+List:
+ShuffledInsert Time: 12768875ns
+Search Time: 3534417ns
+Delete Time: 5875125ns
+
+List:
+ReversedInsert Time: 17448667ns
+Search Time: 3539500ns
+Delete Time: 3876834ns
+
+List:
+SortedInsert Time: 19355291ns
+Search Time: 5514042ns
+Delete Time: 6291584ns
+
+List:
+ShuffledInsert Time: 11713500ns
+Search Time: 3839458ns
+Delete Time: 4028000ns
+
+List:
+ReversedInsert Time: 25713417ns
+Search Time: 16442041ns
+Delete Time: 6399000ns
+
+List:
+SortedInsert Time: 19349292ns
+Search Time: 3999750ns
+Delete Time: 6618000ns
+
+List:
+ShuffledInsert Time: 14136041ns
+Search Time: 3474291ns
+Delete Time: 4472625ns
+
+List:
+ReversedInsert Time: 28397875ns
+Search Time: 5087500ns
+Delete Time: 5100917ns
+
+List:
+SortedInsert Time: 20994584ns
+Search Time: 4532625ns
+Delete Time: 6540500ns
+
+List:
+ShuffledInsert Time: 16637542ns
+Search Time: 3668083ns
+Delete Time: 5477834ns
+
+List:
+ReversedInsert Time: 19945208ns
+Search Time: 3401709ns
+Delete Time: 5560916ns
+

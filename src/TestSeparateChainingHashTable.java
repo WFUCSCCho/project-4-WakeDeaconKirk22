@@ -1,3 +1,11 @@
+/***************************************************************************
+ @file: Proj4.java
+ @description: This program implements the test main class for a Separate Chaining Hash table.
+ @author:  Kennedy Kirk
+ @date  Dec 3 ,2024
+ // hello
+ *******************************************************************************/
+
 public class TestSeparateChainingHashTable {
     public static void main( String [ ] args ) {
         SeparateChainingHashTable<Integer> H = new SeparateChainingHashTable<>( );
